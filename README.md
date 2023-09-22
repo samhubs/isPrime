@@ -49,5 +49,3 @@ The `isPrime` app allows users to input a number and instantly determine if it's
 Feel free to fork the repo and submit pull requests for any enhancements or bug fixes. Feedback and contributions are always welcome!
 
 ---
-
-You can save the above content as `README.md` in the root directory of your repository. Adjust any details as necessary. This should give any visitors to your repo a clear understanding of the app's purpose and how to use it.
